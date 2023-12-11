@@ -1,0 +1,27 @@
+{
+    "strings":
+    {
+    "CLOUDBURST_WYATT_NAME" : "Concierge",
+    "CLOUDBURST_WYATT_SUBTITLE" : "Machine de nettoyage efficaces et dynamiques",
+    "CLOUDBURST_WYATT_OUTRO_FLAVOR" : "...et ainsi, ils partirent, une mission accomplie.",
+    "CLOUDBURST_WYATT_OUTRO_FAILURE" : "...et ainsi, ils disparurent, laissant derrière eux un désordre encore plus grand qu'au début.",
+    "CLOUDBURST_WYATT_DESCRIPTION" : "Le Concierge est un maître de la guerre d'entretien qui manipule la gravité de ses ennemis à son avantage<color=#CCD3E0>\n\n< ! > Enchaînez les combos de Grav-Broom pour élever les ennemis de plus en plus haut.\n\n< ! > Empalez les ennemis avec Trash Out après les avoir soulevés dans les airs avec Grav-Broom et MAID pour infliger des dégâts importants!\n\n< ! > Utilisez le double saut de Flow pour comboter les ennemis dans les airs, ou utilisez l'armure pour vous sortir d'une situation délicate.\n\n< ! > Utilisez MAID pour élever les ennemis dans les airs et pour vous repositionner afin de comboter les ennemis plus loin.\n\n",
+    "CLOUDBURST_WYATT_LORE" : "Je ne peux pas m'arrêter maintenant. Je ne peux pas m'arrêter maintenant. Chaque pas que je fais est un pas que je ne peux pas annuler. Coûte que coûte, je le trouverai.\n\nC'est tout un rythme, juste un rythme. Chaque fois que je sors du cadre, c'est une punition. J'obéirai à la cadence. Rien ne peut m'arrêter maintenant.\n\nChaque cicatrice en vaut la peine. Je le sens, je m'approche de lui. Je l'aurai, et il sera à moi.\n\nPeu importe le sang versé, cela en vaut la peine. Je trouverai ce que je veux, et je rentrerai chez moi.\n\nPeu importe combien j'en massacre, il sera à moi... Il ne peut pas se cacher de moi éternellement.\n\nIl est là, je le sens. Ce coffre de sécurité, il l'a. Je le force, et je le trouve.\n\nC'est enfin à moi. Je le tiens dans mes mains meurtries. Est-ce vraiment passé des années ?\n\nElle adorera ça, je le sais.\n\n",
+    "KEYWORD_WEIGHTLESS" : "<style=cKeywordName>Sans Poids</style><style=cSub><style=cIsUtility>Supprime la gravité</style> de la cible et <style=cIsUtility>Ralentit la vitesse de déplacement et d'attaque</style>.</style>",
+    "KEYWORD_SPIKED" : "<style=cKeywordName>Empalement</style><style=cSub>Force un ennemi à tomber vers le bas, provoquant une <style=cIsDamage>onde de choc</style> s'ils heurtent le terrain, infligeant <style=cIsDamage>200% de dégâts</style> + <style=cIsDamage>30% de dégâts</style> par mètre tombé.</style>",
+    "KEYWORD_FLOW" : "<style=cKeywordName>Flow</style><style=cSub>Obtenez <style=cIsDamage>30 d'armure</style> + <style=cIsDamage>5 d'armure</style> pour chaque pile de <style=cIsUtility>Sillon</style>.\nObtenez un <style=cIsUtility>Double Saut</style>.\nObtenez une <style=cIsUtility>Réduction de Cooldown de +30%.</style></style>",
+    "CLOUDBURST_WYATT_PASSIVE_NAME" : "Baladeur",
+    "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION" : "À chaque coup, gagnez une pile de <style=cIsUtility>Sillon</style>, conférant une <style=cIsUtility>augmentation de vitesse de déplacement de 20%</style> par cumul. Diminue hors combat.",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME" : "G22 Grav-Balai",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION" : "<style=cIsUtility>Agile</style>. Balancez votre balai pour infliger <style=cIsDamage>100% de dégâts</style>. Chaque troisième coup inflige <style=cIsDamage>200% de dégâts</style> et applique <style=cIsUtility>l'apesanteur</style>.",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME" : "Éjection de Déchets",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION" : "<s>Déploie un treuil</s> Vole magiquement vers un ennemi, les frappe pour <style=cIsDamage>300%</style> de dégâts et les <style=cIsDamage>empale</style>.",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_NAME" : "Flow",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_DESCRIPTION" : "Activez <style=cIsDamage>Flow</style> pendant <style=cIsUtility>4 secondes</style> + <style=cIsUtility>0.4 secondes</style> pour chaque pile de <style=cIsUtility>Sillon</style>, gagnant <style=cIsDamage>de l'armure, un double saut et une réduction du temps de recharge</style>. Pendant <style=cIsDamage>Flow</style>, vous ne pouvez ni perdre ni gagner de piles de <style=cIsUtility>Sillon</style>. Après la fin de <style=cIsDamage>Flow</style>, perdez toutes les piles de <style=cIsUtility>Sillon</style>.",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_NAME" : "SERVANTE M88",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION" : "Envoyez votre unité <style=cIsUtility>SERVANTE M88</style> en roulant à travers les ennemis pour <style=cIsDamage>300%</style> de dégâts avant de s'arrêter brièvement et de revenir vers vous. Activez à nouveau pour vous attirer vers la <style=cIsUtility>SERVANTE M88</style> et exploser pour <style=cIsDamage>500%</style> de dégâts, appliquant <style=cIsUtility>Apesanteur</style>.",
+    "CLOUDBURST_WYATT_CLASSIC_SKIN" : "Classique",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME" : "Concierge : Maitrise",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION" : "En tant que Gardien, terminez le jeu ou anéantissez-le en mode Mousson."
+    }
+}
