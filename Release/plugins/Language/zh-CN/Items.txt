@@ -1,0 +1,28 @@
+{
+    strings:
+    {
+    "ITEM_BARRIERONCRIT_NAME" : "铋元素耳环",
+    "ITEM_BARRIERONCRIT_DESCRIPTION" : "提高<style=cIsDamage>5%流血概率</style>。造成流血时获得<style=cIsHealing>15点</style> <style=cStack>(每层+10点)</style><style=cIsHealing>临时屏障</style>。",
+    "ITEM_BARRIERONCRIT_PICKUP" : "造成流血时获得临时屏障。",
+    "ITEM_BARRIERONCRIT_LORE" : "这耳环是铋或者别的什么我不知道的东西做的。",
+    "ITEM_ENIGMATICKEYCARD_NAME" : "神秘的钥匙卡",
+    "ITEM_ENIGMATICKEYCARD_PICKUP" : "有机会在命中时产生一个星体，跟随并伤害敌人。",
+    "ITEM_ENIGMATICKEYCARD_DESCRIPTION" : "命中时有4%几率产生一个<style=cIsDamage>跟踪星体</style>攻击邻近的敌人，命中时造成<style=cIsDamage>140%伤害<style=cStack>(每层+140%)</style></style>。",
+    "ITEM_ENIGMATICKEYCARD_LORE" : "没有哪个钥匙卡能打开恩尼格玛那狗日的大脑",
+    "ITEM_BLEEDCRIPPLE_NAME" : "法宾赫鲁的匕首",
+    "ITEM_BLEEDCRIPPLE_PICKUP" : "攻击流血的敌人以降低他们的护甲。",
+    "ITEM_BLEEDCRIPPLE_DESCRIPTION" : "获得命中时<style=cIsDamage>5%</style><style=cIsDamage>流血几率</style><style=cIsDamage>刺穿</style><style=cIsDamage>流血</style>的敌人并降低目标<style=cIsDamage>30</style> <style=cStack>(每层+15)</style><style=cIsDamage>护甲</style>。",
+    "ITEM_BLEEDCRIPPLE_LORE" : "她在玩弄我的匕首，直到我高潮",
+    "ITEM_GLASSHARVESTER_NAME" : "玻璃收割者",
+    "ITEM_GLASSHARVESTER_PICKUP" : "暴击造成额外40%伤害。低生命值时损坏并获得经验值。",
+    "ITEM_GLASSHARVESTER_DESC" : "获得<style=cIsDamage>5%暴击率</style>。<style=cIsDamage>暴击</style>造成额外<style=cIsDamage>40%伤害</style><style=cStack>(每层+30%)</style>。低于<style=cIsHealth>25%生命值</style>时<style=cIsUtility>摧毁</style>此物品并获得相当于你当前等级所需<style=cIsUtility>经验</style>的15%。",
+    "ITEM_GLASSHARVESTER_LORE" : "它收割玻璃还是用玻璃收割?\n我不知道，我也不在乎，滚出我的房子！",
+    "ITEM_GLASSHARVESTERCONSUMED_NAME" : "玻璃收割者（已损坏）",
+    "ITEM_GLASSHARVESTERCONSUMED_PICKUP" : "收割者被收割了。这样的经历值得吗？",
+    "ITEM_GLASSHARVESTERCONSUMED_DESC" : "没有任何能量的废弃物品。",
+    "ITEM_PICKUPBUFF_NAME" : "加普的斗篷",
+    "ITEM_PICKUPBUFF_PICKUP" : "捡起物品时获得治疗与护甲加成",
+    "ITEM_PICKUPBUFF_DESCRIPTION" : "捡起物品时获得<style=cIsUtility>+5护甲</style>与<style=cIsHealing>30%治疗</style>。此加成最大叠加3层<style=cStack>(每层+2可叠加层数)</style>.",
+    "ITEM_PICKUPBUFF_LORE" : "军需官日志。坠机后第17天。\n\n自从我们被迫进入这个吃人的星球的大气层、几乎把自己烧成冒烟的黑糊糊以来，已经有半个多月了。由于我们到达的方式，那就是从一艘被撕出曲速旅行的崩溃的货船中逃生，我们的必需品供应量已经从本就危险的低基数开始继续减少。我们不得不定量配给我们仅有的一点食物和水。为了控制这一点，我被选为我们哨所的军需官。\n以下是我们的物资清单：\n\n-足够一个半星期的食物和水。\n-三个半纸箱，里面装满了从被摧毁的无人机和哨兵身上回收的金属和电路。\n-4袋医疗设备\n-2个钥匙链，每个有13把生锈的钥匙？（这一定是个错误，胡亚雷斯说这是两天前那三个家伙带来的一部分战利品，他们是在印这些东西吗？）\n-6箱弹药（可能会以指数速度减少）\n\n有些事情不对劲。我们张贴的公告板上记录每个人拿走了多少物资，但并不完全准确。虽然这可能是每个人之间简单的沟通问题，但随着时间的推移，有人拿走超过自己所需的可能性正与日俱增。我没有任何证据来确切指向这一点，但这是一个非常（令人恐惧）的可能性。\n\n\n如果只是一个人拿走了所有的东西，那么按照已经显示的速率…\n他们可能比我们其他人都更有准备。\n\n日志结束。\n\n\n附记：看在上帝的份上，谁，拿了，我的，香烟？？",
+    }
+}

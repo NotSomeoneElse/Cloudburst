@@ -1,0 +1,27 @@
+{
+    strings:
+    {
+    "CLOUDBURST_WYATT_NAME" : "看门人",
+    "CLOUDBURST_WYATT_SUBTITLE" : "精干的，吝啬的，清洁机器。",
+    "CLOUDBURST_WYATT_OUTRO_FLAVOR" : "...于是他们离开了，干得好。",
+    "CLOUDBURST_WYATT_OUTRO_FAILURE" : "...于是他们消失了，留下了一摊比他们来时还大的烂摊子。",
+    "CLOUDBURST_WYATT_DESCRIPTION" : "看门人是一位保洁大师，可以通过操纵敌人的重力为自己创造优势。<color=#CCD3E0>\n\n< ! >重力扫把的连击可以把敌人打的越来越高。\n\n< ! >将那些被重力扫把和女仆机器人打飞的敌人以技能“清理垃圾”刺下来以造成海量伤害！\n\n< ! >使用奔流的连跳效果以连击空中的敌人，或者以额外护甲摆脱棘手的情形。\n\n< ! >使用女仆机器人把敌人提升到空中，并重新定位自己以进行进一步连击。\n\n",
+    "CLOUDBURST_WYATT_LORE" : "无法停下，无法停下。我走的每一步都没有回头路。无论遇到什么困难，我都要找到它。\n\n一切都是节奏，只是节奏。每次我越轨，都是一种惩罚。我要服从于韵律。没有什么能阻止我了。\n\n每道伤痕都值得。我能感觉到，我离它越来越近了。我会拥有它，它将属于我。\n\n无论付出多少血汗，都是值得的。我会找到我想要的，然后回家。\n\n无论我屠杀多少人，它都将属于我... 它无法永远躲着我。\n\n它就在这里，我能感觉到。这个保险箱里就有它。我打开它，找到了它。\n\n它...终于是我的了。我把它握在我受伤的手中。真的已经过去了这么多年吗？ \n\n她会喜欢这个，我知道。\n\n",
+    "KEYWORD_WEIGHTLESS" : "<style=cKeywordName>失重</style><style=cSub><style=cIsUtility>移除目标的重力</style>并<style=cIsUtility>降低移速与攻速</style>。</style>",
+    "KEYWORD_SPIKED" : "<style=cKeywordName>刺穿</style><style=cSub>迫使敌人下坠，目标撞击地形时造成<style=cIsDamage>震荡波</style>，造成<style=cIsDamage>200%伤害</style>，每米坠落高度额外增加<style=cIsDamage>30%伤害</style>。</style>",
+    "KEYWORD_FLOW" : "<style=cKeywordName>奔流</style><style=cSub>获得<style=cIsDamage>30护甲</style>，每层<style=cIsUtility>律动</style>额外获得<style=cIsDamage>5护甲</style>。\n获得一次<style=cIsUtility>额外跳跃</style>。\n获得<style=cIsUtility>+30%冷却减免</style>。</style>",
+    "CLOUDBURST_WYATT_PASSIVE_NAME" : "随身听",
+    "CLOUDBURST_WYATT_PASSIVE_DESCRIPTION" : "命中时，获得一层<style=cIsUtility>律动</style>，每层提升<style=cIsUtility>20%移速</style>。脱战时开始衰减。\n<color=#8888>(译者注：最大同时堆叠10层)</color>",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_NAME" : "G22重力扫把",
+    "CLOUDBURST_WYATT_PRIMARY_COMBO_DESCRIPTION" : "<style=cIsUtility>灵巧</style>。使用扫把挥击，造成<style=cIsDamage>100%伤害</style>。第3次命中改为造成<style=cIsDamage>200%伤害</style>并造成<style=cIsUtility>失重</style>。",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_NAME" : "清理垃圾",
+    "CLOUDBURST_WYATT_SECONDARY_TRASHOUT_DESCRIPTION" : "<s>部署一个绞盘</s>飞向敌人，命中造成<style=cIsDamage>300%</style>伤害并<style=cIsDamage>刺穿</style>他们。",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_NAME" : "奔流",
+    "CLOUDBURST_WYATT_UTILITY_FLOW_DESCRIPTION" : "激活<style=cIsDamage>奔流</style>效果，持续<style=cIsUtility>4秒</style>。每层<style=cIsUtility>律动</style>额外增加<style=cIsUtility>0.4秒</style>持续时间。\n期间获得<style=cIsDamage>额外护甲、一次额外跳跃，以及冷却缩减效果</style>。<style=cIsDamage>奔流</style>效果持续期间，你将无法获得或失去<style=cIsUtility>律动</style>层数。<style=cIsDamage>奔流</style>效果结束后，失去所有<style=cIsUtility>律动</style>。",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_NAME" : "M88女仆机器人",
+    "CLOUDBURST_WYATT_SPECIAL_MAID_DESCRIPTION" : "部署你的<style=cIsUtility>女仆机器人</style>快速穿过敌人，造成<style=cIsDamage>300%伤害</style>，随后短暂停止并返回你身边。再次激活技能以将自身卷向<style=cIsUtility>女仆机器人</style>并使其爆炸，造成<style=cIsDamage>500%伤害</style>，并造成<style=cIsUtility>失重</style>。",
+    "CLOUDBURST_WYATT_CLASSIC_SKIN" : "经典",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_NAME" : "看门人：精通",
+    "ACHIEVEMENT_CLOUDBURSTWYATTCLEARGAMEMONSOON_DESCRIPTION" : "作为看门人，在季风难度下通关游戏或抹除自己。",
+    }
+}

@@ -1,0 +1,7 @@
+{
+    strings:
+    {
+    "EXPANSION_CLOUDBURST_NAME" : "云爆",
+    "EXPANSION_CLOUDBURST_DESCRIPTION" : "添加模组“云爆”中的内容至游戏中。",
+    }
+}
